@@ -141,7 +141,7 @@ body{
 
 /* --------- Start Title */
 .title .box img{
-    margin-bottom: -80px;
+/*     margin-bottom: -80px; */
     border-radius: 15px;
 }
 @media (max-width:767px) {
